@@ -1,0 +1,2813 @@
+ï»¿.nubankapp {
+    display: flex;
+    flex-grow: 1;
+}
+
+.nubankapp-nubankmobile-5 {
+    display: none;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 13px;
+    background: #FFFFFF;
+    min-height: 100vh;
+}
+
+.nubankapp-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 23px;
+}
+
+.nubankapp-image-2 {
+    width: 25px;
+    height: 30px;
+    flex-shrink: 0;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/7050700216481556/399f7daa-6ffe-40a3-bbfd-26c3d10357f8/SouNu.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.nubankapp-0-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 266px;
+    padding-top: 14px;
+    padding-bottom: 7px;
+}
+
+.nubankapp-0-0-1-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-line-9 {
+    width: 23px;
+    height: 1px;
+    flex-shrink: 0;
+    background: #8A05BE;
+}
+
+.nubankapp-0-0-1-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 7px;
+}
+
+.nubankapp-line-6 {
+    width: 23px;
+    height: 1px;
+    flex-shrink: 0;
+    background: #8A05BE;
+}
+
+.nubankapp-0-0-2 {
+    height: 0px;
+    flex-grow: 1;
+    flex-basis: 0px;
+}
+
+.nubankapp-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 11px;
+}
+
+.nubankapp-image_9 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 144px;
+    padding-bottom: 526px;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/undefined/1d207bce-b551-47a8-ac2e-cba41ae89446/WomanBusFront.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.nubankapp-0-1-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 47px;
+    padding-right: 47px;
+}
+
+.nubankapp-component_1 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.nubankapp-0-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 52px;
+}
+
+.nubankapp-rectangle_6 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 40px;
+    padding-bottom: 21px;
+    background: #F5F5F5;
+}
+
+.nubankapp-0-2-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 38px;
+    padding-right: 70px;
+}
+
+.nubankapp-nuconta_-3 {
+    width: 252px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-2-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 2px;
+    padding-left: 38px;
+    padding-right: 62px;
+}
+
+.nubankapp-rende_mais_que_a_poupan_a_e_voc_n_o_paga_nada_por_isso_-7 {
+    flex-grow: 1;
+    flex-basis: 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #767676;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-2-0-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 10px;
+    padding-left: 38px;
+    padding-right: 70px;
+}
+
+.nubankapp-d_bito_entre_na_lista_de_espera_-0 {
+    flex-grow: 1;
+    flex-basis: 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-2-0-3 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 22px;
+    padding-left: 38px;
+}
+
+.nubankapp-image_1 {
+    height: 280px;
+    flex-grow: 0.8881987577639752;
+    flex-basis: 0px;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/7050700216481556/f7ed47a5-7395-48c3-b2ce-7fa1611434ae/nuconta-inclined-device@3x.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.nubankapp-0-2-0-3-1 {
+    height: 0px;
+    flex-grow: 0.11180124223602485;
+    flex-basis: 0px;
+}
+
+.nubankapp-0-3 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 45px;
+    padding-left: 38px;
+    padding-right: 70px;
+}
+
+.nubankapp-cart_o_de_cr_dito_-7 {
+    flex-grow: 1;
+    flex-basis: 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-4 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 6px;
+    padding-left: 38px;
+    padding-right: 51px;
+}
+
+.nubankapp-moderno_simples_e_gratuito_tudo_para_deixar_o_controle_em_suas_m_os_-0 {
+    flex-grow: 1;
+    flex-basis: 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #767676;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-5 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 7px;
+    padding-left: 38px;
+    padding-right: 70px;
+}
+
+.nubankapp-saiba_mais_-7 {
+    width: 252px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-6 {
+    width: 0px;
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: 0px;
+}
+
+.nubankapp-0-7 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 70px;
+}
+
+.nubankapp-image_11 {
+    height: 278px;
+    flex-grow: 0.8379310344827586;
+    flex-basis: 0px;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/undefined/3bbf4644-992b-4a05-9653-f408a8670cc3/holding-card-vertical@3x.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.nubankapp-0-7-1 {
+    height: 0px;
+    flex-grow: 0.16206896551724137;
+    flex-basis: 0px;
+}
+
+.nubankapp-0-8 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-rectangle_7 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 48px;
+    padding-bottom: 11px;
+    background: #530082;
+}
+
+.nubankapp-0-8-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 38px;
+    padding-right: 70px;
+}
+
+.nubankapp-rewards_-2 {
+    flex-grow: 1;
+    flex-basis: 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #F5F5F5;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-8-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 9px;
+    padding-left: 38px;
+    padding-right: 59px;
+}
+
+.nubankapp-um_programa_de_pontos_justo_e_com_recompensas_que_voc_vai_querer_-5 {
+    flex-grow: 1;
+    flex-basis: 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #CA8EE2;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-8-0-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 12px;
+    padding-left: 38px;
+    padding-right: 70px;
+}
+
+.nubankapp-saiba_mais_-2 {
+    flex-grow: 1;
+    flex-basis: 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #F5F5F5;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-8-0-3 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 40px;
+    padding-left: 60px;
+}
+
+.nubankapp-image_12 {
+    height: 271px;
+    flex-grow: 0.8033333333333333;
+    flex-basis: 0px;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/7050700216481556/0c3a42fb-14ef-4f2c-b2ca-cbcb1c25f28d/rewards-home-card@0.75x.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.nubankapp-0-8-0-3-1 {
+    height: 0px;
+    flex-grow: 0.19666666666666666;
+    flex-basis: 0px;
+}
+
+.nubankapp-0-9 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-image_13 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 130px;
+    padding-bottom: 113px;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/7050700216481556/6ced5c08-c38f-4cca-b8ca-b3134f15f166/challenge-system-large.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.nubankapp-0-9-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 39px;
+    padding-right: 53px;
+}
+
+.nubankapp-desafiando_o_sistema_para_redefinir_a_rela_o_das_pessoas_com_o_dinheiro_-7 {
+    flex-grow: 1;
+    flex-basis: 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-9-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 17px;
+    padding-left: 39px;
+    padding-right: 69px;
+}
+
+.nubankapp-saiba_mais_-78 {
+    flex-grow: 1;
+    flex-basis: 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #F5F5F5;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-10 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-image_14 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 109px;
+    padding-bottom: 117px;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/7050700216481556/17dd7f56-2dc5-4a32-a1fa-0059df295d3c/nucommunity@0.5x.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.nubankapp-0-10-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 39px;
+    padding-right: 69px;
+}
+
+.nubankapp-nucommunity_a_comunidade_oficial_da_nubank_-5 {
+    flex-grow: 1;
+    flex-basis: 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-10-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 18px;
+    padding-left: 39px;
+    padding-right: 69px;
+}
+
+.nubankapp-tire_d_vidas_compartilhe_ideias_e_fa_a_parte_-5 {
+    flex-grow: 1;
+    flex-basis: 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #F5F5F5;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-11 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-rectangle_7-4 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 45px;
+    background: #8A05BE;
+}
+
+.nubankapp-0-11-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 38px;
+    padding-right: 114px;
+}
+
+.nubankapp-um_blog_para_voc_repensar_o_seu_dinheiro_-1 {
+    flex-grow: 1;
+    flex-basis: 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-11-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 19px;
+    padding-left: 38px;
+    padding-right: 70px;
+}
+
+.nubankapp-conhe_a_o_fala_nubank_-6 {
+    flex-grow: 1;
+    flex-basis: 0px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #F5F5F5;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-11-0-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 38px;
+    padding-left: 35px;
+}
+
+.nubankapp-image_15 {
+    height: 308px;
+    flex-grow: 1;
+    flex-basis: 0px;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/7050700216481556/9974b55b-5dd2-4ebf-8324-8a83f6232721/hand-device-blog@3x.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.nubankapp-0-11-0-2-1 {
+    height: 0px;
+    flex-grow: 0;
+    flex-basis: 0px;
+}
+
+.nubankapp-0-12 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-rectangle_8 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 28px;
+    padding-bottom: 30px;
+    background: #000000;
+}
+
+.nubankapp-0-12-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 27px;
+    padding-right: 244px;
+}
+
+.nubankapp-image_16 {
+    width: 89px;
+    height: 35px;
+    flex-shrink: 0;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/7050700216481556/89856ddd-23af-4c61-aeb4-4186d686dad8/NuBranco.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.nubankapp-0-12-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 30px;
+    padding-left: 27px;
+    padding-right: 263px;
+}
+
+.nubankapp-produtos_-3 {
+    width: 70px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 16px;
+    padding-left: 27px;
+    padding-right: 263px;
+}
+
+.nubankapp-nuconta_-0 {
+    width: 70px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-3 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 17px;
+    padding-left: 27px;
+    padding-right: 253px;
+}
+
+.nubankapp-cart_o_de_cr_dito_-8 {
+    width: 80px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-4 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 17px;
+    padding-left: 27px;
+    padding-right: 253px;
+}
+
+.nubankapp-empr_stimo_-7 {
+    width: 80px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-5 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 21px;
+    padding-left: 27px;
+    padding-right: 253px;
+}
+
+.nubankapp-rewards_-3 {
+    width: 80px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-6 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 25px;
+    padding-left: 27px;
+    padding-right: 263px;
+}
+
+.nubankapp-nubank_-6 {
+    width: 70px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-7 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 19px;
+    padding-left: 27px;
+    padding-right: 253px;
+}
+
+.nubankapp-sobre_n_s_-8 {
+    width: 80px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-8 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 21px;
+    padding-left: 27px;
+    padding-right: 253px;
+}
+
+.nubankapp-carreiras_-0 {
+    width: 80px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-9 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 21px;
+    padding-left: 27px;
+    padding-right: 235px;
+}
+
+.nubankapp-perguntas_frequentes_-0 {
+    width: 98px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-10 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 21px;
+    padding-left: 27px;
+    padding-right: 235px;
+}
+
+.nubankapp-imprensa_-7 {
+    width: 98px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-11 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 21px;
+    padding-left: 27px;
+    padding-right: 235px;
+}
+
+.nubankapp-contato_-0 {
+    width: 98px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-12 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 25px;
+    padding-left: 27px;
+    padding-right: 263px;
+}
+
+.nubankapp-explore_-5 {
+    width: 70px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-13 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 22px;
+    padding-left: 27px;
+    padding-right: 235px;
+}
+
+.nubankapp-comunidade_-0 {
+    width: 98px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-14 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 19px;
+    padding-left: 27px;
+    padding-right: 235px;
+}
+
+.nubankapp-blog_-8 {
+    width: 98px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-15 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 24px;
+    padding-left: 27px;
+    padding-right: 245px;
+}
+
+.nubankapp-pelo_mundo_-1 {
+    width: 88px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-16 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 18px;
+    padding-left: 27px;
+    padding-right: 235px;
+}
+
+.nubankapp-argentina_-4 {
+    width: 98px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-17 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 21px;
+    padding-left: 27px;
+    padding-right: 235px;
+}
+
+.nubankapp-m_xico_-0 {
+    width: 98px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-18 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 20px;
+    padding-left: 27px;
+    padding-right: 208px;
+}
+
+.nubankapp-fale_com_a_gente_-8 {
+    width: 125px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-19 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 17px;
+    padding-left: 27px;
+    padding-right: 235px;
+}
+
+.nubankapp-0 {
+    width: 98px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-20 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 16px;
+    padding-left: 27px;
+    padding-right: 215px;
+}
+
+.nubankapp-meajuda_nubank_com_br_-2 {
+    width: 118px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-21 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 14px;
+    padding-left: 27px;
+    padding-right: 215px;
+}
+
+.nubankapp-atendimento_2 {
+    width: 118px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-22 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 23px;
+    padding-left: 27px;
+    padding-right: 208px;
+}
+
+.nubankapp-ouvidoria_-2 {
+    width: 125px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-23 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 16px;
+    padding-left: 27px;
+    padding-right: 215px;
+}
+
+.nubankapp-08 {
+    width: 118px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-24 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 18px;
+    padding-left: 27px;
+    padding-right: 215px;
+}
+
+.nubankapp-ouvidoria_nubank_com_br_-9 {
+    width: 118px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-25 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 18px;
+    padding-left: 27px;
+    padding-right: 144px;
+}
+
+.nubankapp-atendimento_das_9 {
+    width: 189px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-26 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 24px;
+    padding-left: 27px;
+    padding-right: 208px;
+}
+
+.nubankapp-legal_-7 {
+    width: 125px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-27 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 18px;
+    padding-left: 27px;
+    padding-right: 215px;
+}
+
+.nubankapp-pol_tica_de_privacidade_-6 {
+    width: 118px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-12-0-28 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 15px;
+    padding-left: 27px;
+    padding-right: 215px;
+}
+
+.nubankapp-contratos_-0 {
+    width: 118px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 10px;
+    line-height: 11px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-nubankweb-3 {
+    display: none;
+    flex-direction: column;
+    flex-grow: 1;
+    background: #FFFFFF;
+    min-height: 100vh;
+}
+
+.nubankapp-1-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-rectangle-2 {
+    width: 1035px;
+    height: 87px;
+    flex-shrink: 0;
+    overflow: scroll;
+    position: relative;
+    box-shadow: 0px 2px 4px 0px #F5F5F5;
+    background: #FFFFFF;
+}
+
+.nubankapp-1-0-0-0 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 7px;
+    position: absolute;
+    width: 100%;
+    min-height: 100%;
+}
+
+.nubankapp-1-0-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 27px;
+    padding-right: 32px;
+}
+
+.nubankapp-image-4 {
+    width: 42px;
+    height: 72px;
+    flex-shrink: 0;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/7050700216481556/399f7daa-6ffe-40a3-bbfd-26c3d10357f8/SouNu.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.nubankapp-1-0-0-0-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 26px;
+    padding-top: 28px;
+    padding-bottom: 26px;
+}
+
+.nubankapp-1-0-0-0-0-1-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-in_cio_-4 {
+    width: 44px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-0-0-0-0-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 23px;
+    padding-top: 28px;
+    padding-bottom: 26px;
+}
+
+.nubankapp-1-0-0-0-0-2-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-component_2 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.nubankapp-1-0-0-0-0-3 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    padding-top: 28px;
+    padding-bottom: 26px;
+}
+
+.nubankapp-1-0-0-0-0-3-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-cart_o_de_cr_dito_-4 {
+    width: 132px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #767676;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-0-0-0-0-4 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    padding-top: 28px;
+    padding-bottom: 26px;
+}
+
+.nubankapp-1-0-0-0-0-4-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-rewards_-1 {
+    width: 68px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #767676;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-0-0-0-0-5 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    padding-top: 28px;
+    padding-bottom: 26px;
+}
+
+.nubankapp-1-0-0-0-0-5-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-empr_stimo_-3 {
+    width: 91px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #767676;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-0-0-0-0-6 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    padding-top: 28px;
+    padding-bottom: 26px;
+}
+
+.nubankapp-1-0-0-0-0-6-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-sobre_n_s_-6 {
+    width: 91px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #767676;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-0-0-0-0-7 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+    padding-top: 28px;
+    padding-bottom: 26px;
+}
+
+.nubankapp-1-0-0-0-0-7-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-carreiras_-8 {
+    width: 66px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #767676;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-0-0-0-0-8 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 127px;
+    padding-top: 28px;
+    padding-bottom: 26px;
+}
+
+.nubankapp-1-0-0-0-0-8-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-login_-4 {
+    width: 44px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-0-0-0-1 {
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: 0px;
+}
+
+.nubankapp-unnamed_instance_2 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.nubankapp-1-1 {
+    width: 0px;
+    flex-shrink: 0;
+    flex-grow: 0.05555555555555555;
+    flex-basis: 0px;
+}
+
+.nubankapp-1-2 {
+    display: flex;
+    flex-shrink: 0;
+    flex-grow: 0.535042735042735;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-left: 71px;
+    padding-right: 71px;
+}
+
+.nubankapp-image_2 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 138px;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/undefined/0b2a3cd7-5b36-43ed-8e1f-3153f5f307f6/WomanBusNuBank.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.nubankapp-1-2-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 71px;
+    padding-right: 639px;
+}
+
+.nubankapp-ser_nubank_ter_uma_vida_financeira_descomplicada_-8 {
+    width: 428px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #F5F5F5;
+    font-size: 48px;
+    line-height: 55px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-2-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 16px;
+    padding-left: 71px;
+    padding-right: 807px;
+}
+
+.nubankapp-nuconta_com_rendimento_acima_da_poupan_a_e_cart_o_de_cr_dito_sem_anuidade_-2 {
+    width: 260px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #F5F5F5;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-2-0-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 27px;
+    padding-left: 71px;
+    padding-right: 859px;
+}
+
+.nubankapp-rectangle_3 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #8A05BE;
+}
+
+.nubankapp-1-2-0-2-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 36px;
+    padding-right: 36px;
+}
+
+.nubankapp-quero_ser_nubank_-3 {
+    width: 136px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-2-0-3 {
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: 0px;
+}
+
+.nubankapp-1-3 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 61px;
+}
+
+.nubankapp-unnamed_instance-7 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+    min-width: 1280px;
+}
+
+.nubankapp-1-4 {
+    display: flex;
+    flex-shrink: 0;
+    flex-grow: 0.4094017094017094;
+    flex-basis: 0px;
+    min-height: fit-content;
+    margin-top: 103px;
+    padding-left: 71px;
+    padding-right: 175px;
+}
+
+.nubankapp-1-4-0 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 0.523038605230386;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 31px;
+    padding-bottom: 102px;
+}
+
+.nubankapp-1-4-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-cart_o_de_cr_dito_-81 {
+    width: 420px;
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: #8A05BE;
+    font-size: 48px;
+    line-height: 55px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-4-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 20px;
+}
+
+.nubankapp-moderno_simples_e_gratuito_tudo_para_deixar_o_controle_nas_suas_m_os_-4 {
+    width: 417px;
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: #767676;
+    font-size: 48px;
+    line-height: 55px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-4-0-1-1 {
+    height: 0px;
+    flex-grow: 1;
+    flex-basis: 0px;
+}
+
+.nubankapp-1-4-0-2 {
+    width: 0px;
+    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: 0px;
+}
+
+.nubankapp-1-4-0-3 {
+    display: flex;
+    flex-shrink: 0;
+    padding-right: 187px;
+}
+
+.nubankapp-component_5 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.nubankapp-image_4 {
+    height: 479px;
+    flex-grow: 0.47696139476961397;
+    flex-basis: 0px;
+    margin-left: 231px;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/7050700216481556/8be87a84-4a98-40de-9fac-727ac5ec21e2/holding-card-vertical@3x.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.nubankapp-1-5 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-rectangle_4 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 68px;
+    padding-bottom: 67px;
+    background: #530082;
+}
+
+.nubankapp-1-5-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 77px;
+    padding-right: 111px;
+}
+
+.nubankapp-1-5-0-0-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 66px;
+    padding-bottom: 117px;
+}
+
+.nubankapp-1-5-0-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-right: 330px;
+}
+
+.nubankapp-rewards_-27 {
+    width: 191px;
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: #FFFFFF;
+    font-size: 48px;
+    line-height: 55px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-5-0-0-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 20px;
+}
+
+.nubankapp-um_programa_de_pontos_justo_e_com_recompensas_que_voc_vai_querer_-1 {
+    width: 521px;
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: #CA8EE2;
+    font-size: 48px;
+    line-height: 55px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-5-0-0-0-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 47px;
+    padding-right: 288px;
+}
+
+.nubankapp-d_bito_entre_na_lista_de_espera_-08 {
+    width: 233px;
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-image_5 {
+    height: 488px;
+    flex-grow: 1;
+    flex-basis: 0px;
+    margin-left: 146px;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/7050700216481556/eba79f94-32ec-44b6-9cb5-8c70c577c84b/rewards-home-card@3x.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.nubankapp-1-6 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-image_6 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 149px;
+    padding-bottom: 131px;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/7050700216481556/e8954f68-6cac-426b-9acf-a4a71c45d623/challenge-system-large.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.nubankapp-1-6-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 77px;
+    padding-right: 750px;
+}
+
+.nubankapp-desafiando_o_sistema_para_redefinir_a_rela_o_das_pessoas_com_o_dinheiro_-6 {
+    width: 453px;
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: #F5F5F5;
+    font-size: 48px;
+    line-height: 55px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-6-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 25px;
+    padding-left: 77px;
+    padding-right: 970px;
+}
+
+.nubankapp-saiba_mais_-3 {
+    width: 233px;
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: #F5F5F5;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-7 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-image_7 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 182px;
+    padding-bottom: 198px;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/7050700216481556/9705adb2-63d0-4d03-8f72-0295f066e8bc/nucommunity@1x.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+.nubankapp-1-7-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 77px;
+    padding-right: 750px;
+}
+
+.nubankapp-nucommunity_a_comunidade_oficial_do_nubank_-6 {
+    width: 453px;
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: #F5F5F5;
+    font-size: 48px;
+    line-height: 55px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-7-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 30px;
+    padding-left: 77px;
+    padding-right: 876px;
+}
+
+.nubankapp-tire_d_vidas_compartilhe_ideias_e_fa_a_parte_-1 {
+    width: 327px;
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: #F5F5F5;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-8 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-rectangle_4-2 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 100px;
+    background: #8A05BE;
+}
+
+.nubankapp-1-8-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 77px;
+    padding-right: 110px;
+}
+
+.nubankapp-1-8-0-0-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 103px;
+    padding-bottom: 205px;
+}
+
+.nubankapp-1-8-0-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-um_blog_para_voc_repensar_o_seu_dinheiro_-8 {
+    width: 309px;
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: #FFFFFF;
+    font-size: 48px;
+    line-height: 55px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-8-0-0-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 32px;
+    padding-right: 76px;
+}
+
+.nubankapp-conhe_a_o_fala_nubank_-4 {
+    width: 233px;
+    flex-shrink: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-image_8 {
+    width: 516px;
+    height: 523px;
+    flex-shrink: 0;
+    margin-left: 268px;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/7050700216481556/e8f7bf62-ba15-453d-895b-9d13b8b3ebf8/hand-device-blog@3x.png');
+    background-size: cover;
+    background-position: center;
+}
+
+.nubankapp-1-9 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-rectangle_5 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 52px;
+    padding-bottom: 66px;
+    background: #000000;
+}
+
+.nubankapp-1-9-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 53px;
+    padding-right: 122px;
+}
+
+.nubankapp-1-9-0-0-0 {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 7px;
+}
+
+.nubankapp-1-9-0-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-image_16-6 {
+    width: 185px;
+    height: 72px;
+    flex-shrink: 0;
+    background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/7050700216481556/89856ddd-23af-4c61-aeb4-4186d686dad8/NuBranco.png');
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.nubankapp-1-9-0-0-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 70px;
+    padding-top: 3px;
+}
+
+.nubankapp-1-9-0-0-1-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-produtos_instance-7 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.nubankapp-1-9-0-0-1-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 33px;
+    padding-right: 29px;
+}
+
+.nubankapp-component_4 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.nubankapp-1-9-0-0-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 137px;
+}
+
+.nubankapp-1-9-0-0-2-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-nubank_-7 {
+    width: 99px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-9-0-0-2-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 36px;
+    padding-right: 14px;
+}
+
+.nubankapp-sobre_n_s_-61 {
+    width: 85px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-9-0-0-3 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 140px;
+}
+
+.nubankapp-1-9-0-0-3-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-explore_-1 {
+    width: 99px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-9-0-0-3-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 36px;
+    padding-right: 3px;
+}
+
+.nubankapp-comunidade_-6 {
+    width: 96px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-9-0-0-4 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 110px;
+}
+
+.nubankapp-1-9-0-0-4-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-pelo_mundo_-11 {
+    width: 166px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-9-0-0-4-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 36px;
+    padding-right: 70px;
+}
+
+.nubankapp-argentina_-49 {
+    width: 96px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-9-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 23px;
+    padding-left: 308px;
+    padding-right: 192px;
+}
+
+.nubankapp-cart_o_de_cr_dito_-47 {
+    width: 129px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-carreiras_-6 {
+    width: 85px;
+    flex-shrink: 0;
+    margin-left: 107px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-blog_-9 {
+    width: 96px;
+    flex-shrink: 0;
+    margin-left: 154px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-m_xico_-1 {
+    width: 96px;
+    flex-shrink: 0;
+    margin-left: 113px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-9-0-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 23px;
+    padding-left: 308px;
+    padding-right: 583px;
+}
+
+.nubankapp-empr_stimo_-1 {
+    width: 129px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-perguntas_frequentes_-7 {
+    width: 153px;
+    flex-shrink: 0;
+    margin-left: 107px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-9-0-3 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 20px;
+    padding-left: 308px;
+    padding-right: 583px;
+}
+
+.nubankapp-rewards_-7 {
+    width: 129px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-imprensa_-3 {
+    width: 153px;
+    flex-shrink: 0;
+    margin-left: 107px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-9-0-4 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 23px;
+    padding-left: 544px;
+    padding-right: 583px;
+}
+
+.nubankapp-contato_-1 {
+    width: 153px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-9-0-5 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 63px;
+    padding-left: 308px;
+    padding-right: 314px;
+}
+
+.nubankapp-fale_com_a_gente_-9 {
+    width: 183px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-ouvidoria_-7 {
+    width: 183px;
+    flex-shrink: 0;
+    margin-left: 53px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-legal_-4 {
+    width: 183px;
+    flex-shrink: 0;
+    margin-left: 56px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #8A05BE;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-9-0-6 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 34px;
+    padding-left: 308px;
+    padding-right: 331px;
+}
+
+.nubankapp-1-9-0-6-0 {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 1px;
+}
+
+.nubankapp-1-9-0-6-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-080 {
+    width: 127px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-9-0-6-1 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 109px;
+    padding-bottom: 1px;
+}
+
+.nubankapp-1-9-0-6-1-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-0800 {
+    width: 127px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-9-0-6-2 {
+    display: flex;
+    flex-direction: column;
+    margin-left: 112px;
+    padding-top: 1px;
+}
+
+.nubankapp-1-9-0-6-2-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-pol_tica_de_privacidade_-2 {
+    width: 166px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-9-0-7 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 25px;
+    padding-left: 308px;
+    padding-right: 331px;
+}
+
+.nubankapp-meajuda_nubank_com_br_-20 {
+    width: 185px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-meajuda_nubank_com_br_-4 {
+    width: 185px;
+    flex-shrink: 0;
+    margin-left: 51px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-contratos_-3 {
+    width: 166px;
+    flex-shrink: 0;
+    margin-left: 54px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-1-9-0-8 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 26px;
+    padding-left: 308px;
+    padding-right: 539px;
+}
+
+.nubankapp-1-9-0-8-0 {
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 18px;
+}
+
+.nubankapp-1-9-0-8-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.nubankapp-atendimento_24 {
+    width: 185px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-atendimento_das_9h {
+    width: 197px;
+    flex-shrink: 0;
+    margin-left: 51px;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: underline;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+@media (max-width: 1279px) {
+    .nubankapp-nubankmobile-5 {
+        display: flex;
+    }
+}
+
+@media (min-width: 1280px) {
+    .nubankapp-nubankweb-3 {
+        display: flex;
+    }
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}

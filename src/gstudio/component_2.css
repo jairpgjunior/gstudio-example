@@ -1,0 +1,101 @@
+ï»¿.component_2 {
+    display: flex;
+    flex-grow: 1;
+}
+
+.component_2-_hover-4 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.component_2-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.component_2-nuconta_-8 {
+    width: 72px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #CA8EE2;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+.component_2-default-6 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.component_2-1-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.component_2-nuconta_-9 {
+    width: 72px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #767676;
+    font-size: 16px;
+    line-height: 18px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: center;
+    word-wrap: break-word;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}
