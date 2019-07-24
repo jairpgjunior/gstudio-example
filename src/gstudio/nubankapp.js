@@ -1,4 +1,4 @@
-ï»¿import React from 'react';
+import React from 'react';
 import Component_1 from './component_1';
 import Component_2 from './component_2';
 import Component_button from './component_button';
@@ -42,12 +42,12 @@ export default class Nubankapp extends React.Component {
                       </div>
                       <div className="nubankapp-0-2-0-1">
                           <div className="nubankapp-rende_mais_que_a_poupan_a_e_voc_n_o_paga_nada_por_isso_-7">
-                              {"Rende mais que a poupanÃ§a e vocÃª nÃ£o paga nada por isso."}
+                              {"Rende mais que a poupança e você não paga nada por isso."}
                           </div>
                       </div>
                       <div className="nubankapp-0-2-0-2">
                           <div className="nubankapp-d_bito_entre_na_lista_de_espera_-0">
-                              {"DÃ©bito: entre na lista de espera"}
+                              {"Débito: entre na lista de espera"}
                           </div>
                       </div>
                       <div className="nubankapp-0-2-0-3">
@@ -58,12 +58,12 @@ export default class Nubankapp extends React.Component {
               </div>
               <div className="nubankapp-0-3">
                   <div className="nubankapp-cart_o_de_cr_dito_-7">
-                      {"CartÃ£o de CrÃ©dito"}
+                      {"Cartão de Crédito"}
                   </div>
               </div>
               <div className="nubankapp-0-4">
                   <div className="nubankapp-moderno_simples_e_gratuito_tudo_para_deixar_o_controle_em_suas_m_os_-0">
-                      {"Moderno, simples e gratuito. Tudo para deixar o controle em suas mÃ£os."}
+                      {"Moderno, simples e gratuito. Tudo para deixar o controle em suas mãos."}
                   </div>
               </div>
               <div className="nubankapp-0-5">
@@ -81,7 +81,7 @@ export default class Nubankapp extends React.Component {
                       </div>
                       <div className="nubankapp-0-8-0-1">
                           <div className="nubankapp-um_programa_de_pontos_justo_e_com_recompensas_que_voc_vai_querer_-5">
-                              {"Um programa de pontos justo e com recompensas que vocÃª vai querer"}
+                              {"Um programa de pontos justo e com recompensas que você vai querer"}
                           </div>
                       </div>
                       <div className="nubankapp-0-8-0-2">
@@ -97,7 +97,7 @@ export default class Nubankapp extends React.Component {
                   <div className="nubankapp-image_13">
                       <div className="nubankapp-0-9-0-0">
                           <div className="nubankapp-desafiando_o_sistema_para_redefinir_a_rela_o_das_pessoas_com_o_dinheiro_-7">
-                              {"Desafiando o sistema para redefinir a relaÃ§Ã£o das pessoas com o dinheiro."}
+                              {"Desafiando o sistema para redefinir a relação das pessoas com o dinheiro."}
                           </div>
                       </div>
                       <div className="nubankapp-0-9-0-1">
@@ -115,7 +115,7 @@ export default class Nubankapp extends React.Component {
                       </div>
                       <div className="nubankapp-0-10-0-1">
                           <div className="nubankapp-tire_d_vidas_compartilhe_ideias_e_fa_a_parte_-5">
-                              {"Tire dÃºvidas, compartilhe ideias e faÃ§a parte."}
+                              {"Tire dúvidas, compartilhe ideias e faça parte."}
                           </div>
                       </div>
                   </div>
@@ -124,12 +124,12 @@ export default class Nubankapp extends React.Component {
                   <div className="nubankapp-rectangle_7-4">
                       <div className="nubankapp-0-11-0-0">
                           <div className="nubankapp-um_blog_para_voc_repensar_o_seu_dinheiro_-1">
-                              {"Um blog para vocÃª repensar o seu dinheiro."}
+                              {"Um blog para você repensar o seu dinheiro."}
                           </div>
                       </div>
                       <div className="nubankapp-0-11-0-1">
                           <div className="nubankapp-conhe_a_o_fala_nubank_-6">
-                              {"ConheÃ§a o Fala, NuBank"}
+                              {"Conheça o Fala, NuBank"}
                           </div>
                       </div>
                       <div className="nubankapp-0-11-0-2">
@@ -151,12 +151,12 @@ export default class Nubankapp extends React.Component {
                       </div>
                       <div className="nubankapp-0-12-0-3">
                           <div className="nubankapp-cart_o_de_cr_dito_-8">
-                              {"CartÃ£o de CrÃ©dito"}
+                              {"Cartão de Crédito"}
                           </div>
                       </div>
                       <div className="nubankapp-0-12-0-4">
                           <div className="nubankapp-empr_stimo_-7">
-                              {"EmprÃ©stimo"}
+                              {"Empréstimo"}
                           </div>
                       </div>
                       <div className="nubankapp-0-12-0-5">
@@ -166,7 +166,7 @@ export default class Nubankapp extends React.Component {
                           <div className="nubankapp-nubank_-6">NuBank</div>
                       </div>
                       <div className="nubankapp-0-12-0-7">
-                          <div className="nubankapp-sobre_n_s_-8">{"Sobre nÃ³s"}</div>
+                          <div className="nubankapp-sobre_n_s_-8">{"Sobre nós"}</div>
                       </div>
                       <div className="nubankapp-0-12-0-8">
                           <div className="nubankapp-carreiras_-0">Carreiras</div>
@@ -198,7 +198,7 @@ export default class Nubankapp extends React.Component {
                           <div className="nubankapp-argentina_-4">Argentina</div>
                       </div>
                       <div className="nubankapp-0-12-0-17">
-                          <div className="nubankapp-m_xico_-0">{"MÃ©xico"}</div>
+                          <div className="nubankapp-m_xico_-0">{"México"}</div>
                       </div>
                       <div className="nubankapp-0-12-0-18">
                           <div className="nubankapp-fale_com_a_gente_-8">
@@ -231,7 +231,7 @@ export default class Nubankapp extends React.Component {
                       </div>
                       <div className="nubankapp-0-12-0-25">
                           <div className="nubankapp-atendimento_das_9">
-                              {"Atendimento das 9h Ã s 18h em dias Ãºteis"}
+                              {"Atendimento das 9h às 18h em dias úteis"}
                           </div>
                       </div>
                       <div className="nubankapp-0-12-0-26">
@@ -239,7 +239,7 @@ export default class Nubankapp extends React.Component {
                       </div>
                       <div className="nubankapp-0-12-0-27">
                           <div className="nubankapp-pol_tica_de_privacidade_-6">
-                              {"PolÃ­tica de Privacidade"}
+                              {"Política de Privacidade"}
                           </div>
                       </div>
                       <div className="nubankapp-0-12-0-28">
@@ -256,7 +256,7 @@ export default class Nubankapp extends React.Component {
                               <div className="nubankapp-image-4" /> 
                               <div className="nubankapp-1-0-0-0-0-1">
                                   <div className="nubankapp-1-0-0-0-0-1-0">
-                                      <div className="nubankapp-in_cio_-4">{"InÃ­cio"}</div>
+                                      <div className="nubankapp-in_cio_-4">{"Início"}</div>
                                   </div>
                               </div>
                               <div className="nubankapp-1-0-0-0-0-2">
@@ -269,7 +269,7 @@ export default class Nubankapp extends React.Component {
                               <div className="nubankapp-1-0-0-0-0-3">
                                   <div className="nubankapp-1-0-0-0-0-3-0">
                                       <div className="nubankapp-cart_o_de_cr_dito_-4">
-                                          {"CartÃ£o de crÃ©dito"}
+                                          {"Cartão de crédito"}
                                       </div>
                                   </div>
                               </div>
@@ -281,13 +281,13 @@ export default class Nubankapp extends React.Component {
                               <div className="nubankapp-1-0-0-0-0-5">
                                   <div className="nubankapp-1-0-0-0-0-5-0">
                                       <div className="nubankapp-empr_stimo_-3">
-                                          {"EmprÃ©stimo"}
+                                          {"Empréstimo"}
                                       </div>
                                   </div>
                               </div>
                               <div className="nubankapp-1-0-0-0-0-6">
                                   <div className="nubankapp-1-0-0-0-0-6-0">
-                                      <div className="nubankapp-sobre_n_s_-6">{"Sobre nÃ³s"}</div>
+                                      <div className="nubankapp-sobre_n_s_-6">{"Sobre nós"}</div>
                                   </div>
                               </div>
                               <div className="nubankapp-1-0-0-0-0-7">
@@ -313,12 +313,12 @@ export default class Nubankapp extends React.Component {
                   <div className="nubankapp-image_2">
                       <div className="nubankapp-1-2-0-0">
                           <div className="nubankapp-ser_nubank_ter_uma_vida_financeira_descomplicada_-8">
-                              {"Ser Nubank Ã© ter uma vida financeira descomplicada."}
+                              {"Ser Nubank é ter uma vida financeira descomplicada."}
                           </div>
                       </div>
                       <div className="nubankapp-1-2-0-1">
                           <div className="nubankapp-nuconta_com_rendimento_acima_da_poupan_a_e_cart_o_de_cr_dito_sem_anuidade_-2">
-                              {"NuConta com rendimento acima da poupanÃ§a e cartÃ£o de crÃ©dito sem anuidade."}
+                              {"NuConta com rendimento acima da poupança e cartão de crédito sem anuidade."}
                           </div>
                       </div>
                       <div className="nubankapp-1-2-0-2">
@@ -335,19 +335,19 @@ export default class Nubankapp extends React.Component {
               </div>
               <div className="nubankapp-1-3">
                   <div className="nubankapp-unnamed_instance-7">
-                      <Section text={"NuConta2"} text2={"Rende mais que a poupanÃ§a e vocÃª nÃ£o paga nada por isso."} text3={"DÃ©bito: entre na lista de espera"} img_src={""} /> 
+                      <Section text={"NuConta2"} text2={"Rende mais que a poupança e você não paga nada por isso."} text3={"Débito: entre na lista de espera"} img_src={""} /> 
                   </div>
               </div>
               <div className="nubankapp-1-4">
                   <div className="nubankapp-1-4-0">
                       <div className="nubankapp-1-4-0-0">
                           <div className="nubankapp-cart_o_de_cr_dito_-81">
-                              {"CartÃ£o de CrÃ©dito"}
+                              {"Cartão de Crédito"}
                           </div>
                       </div>
                       <div className="nubankapp-1-4-0-1">
                           <div className="nubankapp-moderno_simples_e_gratuito_tudo_para_deixar_o_controle_nas_suas_m_os_-4">
-                              {"Moderno, simples e gratuito. Tudo para deixar o controle nas suas mÃ£os."}
+                              {"Moderno, simples e gratuito. Tudo para deixar o controle nas suas mãos."}
                           </div>
                           <div className="nubankapp-1-4-0-1-1" /> 
                       </div>
@@ -369,12 +369,12 @@ export default class Nubankapp extends React.Component {
                               </div>
                               <div className="nubankapp-1-5-0-0-0-1">
                                   <div className="nubankapp-um_programa_de_pontos_justo_e_com_recompensas_que_voc_vai_querer_-1">
-                                      {"Um programa de pontos justo e com recompensas que vocÃª vai querer"}
+                                      {"Um programa de pontos justo e com recompensas que você vai querer"}
                                   </div>
                               </div>
                               <div className="nubankapp-1-5-0-0-0-2">
                                   <div className="nubankapp-d_bito_entre_na_lista_de_espera_-08">
-                                      {"DÃ©bito: entre na lista de espera"}
+                                      {"Débito: entre na lista de espera"}
                                   </div>
                               </div>
                           </div>
@@ -386,7 +386,7 @@ export default class Nubankapp extends React.Component {
                   <div className="nubankapp-image_6">
                       <div className="nubankapp-1-6-0-0">
                           <div className="nubankapp-desafiando_o_sistema_para_redefinir_a_rela_o_das_pessoas_com_o_dinheiro_-6">
-                              {"Desafiando o sistema para redefinir a relaÃ§Ã£o das pessoas com o dinheiro."}
+                              {"Desafiando o sistema para redefinir a relação das pessoas com o dinheiro."}
                           </div>
                       </div>
                       <div className="nubankapp-1-6-0-1">
@@ -404,7 +404,7 @@ export default class Nubankapp extends React.Component {
                       </div>
                       <div className="nubankapp-1-7-0-1">
                           <div className="nubankapp-tire_d_vidas_compartilhe_ideias_e_fa_a_parte_-1">
-                              {"Tire dÃºvidas, compartilhe ideias e faÃ§a parte."}
+                              {"Tire dúvidas, compartilhe ideias e faça parte."}
                           </div>
                       </div>
                   </div>
@@ -415,12 +415,12 @@ export default class Nubankapp extends React.Component {
                           <div className="nubankapp-1-8-0-0-0">
                               <div className="nubankapp-1-8-0-0-0-0">
                                   <div className="nubankapp-um_blog_para_voc_repensar_o_seu_dinheiro_-8">
-                                      {"Um blog para vocÃª repensar o seu dinheiro"}
+                                      {"Um blog para você repensar o seu dinheiro"}
                                   </div>
                               </div>
                               <div className="nubankapp-1-8-0-0-0-1">
                                   <div className="nubankapp-conhe_a_o_fala_nubank_-4">
-                                      {"ConheÃ§a o Fala, Nubank"}
+                                      {"Conheça o Fala, Nubank"}
                                   </div>
                               </div>
                           </div>
@@ -454,7 +454,7 @@ export default class Nubankapp extends React.Component {
                               </div>
                               <div className="nubankapp-1-9-0-0-2-1">
                                   <div className="nubankapp-sobre_n_s_-61">
-                                      {"Sobre nÃ³s"}
+                                      {"Sobre nós"}
                                   </div>
                               </div>
                           </div>
@@ -477,15 +477,15 @@ export default class Nubankapp extends React.Component {
                       </div>
                       <div className="nubankapp-1-9-0-1">
                           <div className="nubankapp-cart_o_de_cr_dito_-47">
-                              {"CartÃ£o de crÃ©dito"}
+                              {"Cartão de crédito"}
                           </div>
                           <div className="nubankapp-carreiras_-6">Carreiras</div>
                           <div className="nubankapp-blog_-9">Blog</div>
-                          <div className="nubankapp-m_xico_-1">{"MÃ©xico"}</div>
+                          <div className="nubankapp-m_xico_-1">{"México"}</div>
                       </div>
                       <div className="nubankapp-1-9-0-2">
                           <div className="nubankapp-empr_stimo_-1">
-                              {"EmprÃ©stimo"}
+                              {"Empréstimo"}
                           </div>
                           <div className="nubankapp-perguntas_frequentes_-7">
                               Perguntas frequentes
@@ -519,7 +519,7 @@ export default class Nubankapp extends React.Component {
                           <div className="nubankapp-1-9-0-6-2">
                               <div className="nubankapp-1-9-0-6-2-0">
                                   <div className="nubankapp-pol_tica_de_privacidade_-2">
-                                      {"PolÃ­tica de Privacidade"}
+                                      {"Política de Privacidade"}
                                   </div>
                               </div>
                           </div>
@@ -542,7 +542,7 @@ export default class Nubankapp extends React.Component {
                               </div>
                           </div>
                           <div className="nubankapp-atendimento_das_9h">
-                              {"Atendimento das 9h Ã s 18h em dias Ãºteis"}
+                              {"Atendimento das 9h às 18h em dias úteis"}
                           </div>
                       </div>
                   </div>

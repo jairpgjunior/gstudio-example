@@ -1,4 +1,4 @@
-ï»¿import React from 'react';
+import React from 'react';
 import './button_state.css';
 
 
