@@ -1,58 +1,68 @@
-.component_2 {
+.multistate_component_2 {
     display: flex;
     flex-grow: 1;
 }
 
-.component_2-_hover-4 {
+.multistate_component_2-default-1 {
     display: flex;
     flex-direction: column;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background: #8A05BE;
     flex-grow: 1;
 }
 
-.component_2-0-0 {
+.multistate_component_2-0-0-0 {
     display: flex;
     flex-shrink: 0;
+    padding-left: 36px;
+    padding-right: 36px;
 }
 
-.component_2-nuconta_-8 {
-    width: 72px;
+.multistate_component_2-quero_ser_nubank_-3 {
+    width: 136px;
     flex-shrink: 0;
-    cursor: pointer;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    color: #CA8EE2;
+    color: #FFFFFF;
     font-size: 16px;
     line-height: 18px;
     letter-spacing: 0px;
     font-weight: normal;
     font-style: normal;
     text-decoration: none;
-    text-align: center;
+    text-align: left;
     word-wrap: break-word;
 }
 
-.component_2-default-6 {
+.multistate_component_2-default_hover-7 {
     display: flex;
     flex-direction: column;
     flex-grow: 1;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    cursor: pointer;
+    background: #CA8EE2;
 }
 
-.component_2-1-0-0 {
+.multistate_component_2-1-0 {
     display: flex;
     flex-shrink: 0;
+    padding-left: 36px;
+    padding-right: 36px;
 }
 
-.component_2-nuconta_-9 {
-    width: 72px;
+.multistate_component_2-quero_ser_nubank_-8 {
+    width: 136px;
     flex-shrink: 0;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
-    color: #767676;
+    color: #FFFFFF;
     font-size: 16px;
     line-height: 18px;
     letter-spacing: 0px;
     font-weight: normal;
     font-style: normal;
     text-decoration: none;
-    text-align: center;
+    text-align: left;
     word-wrap: break-word;
 }
 

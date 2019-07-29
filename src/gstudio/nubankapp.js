@@ -2,6 +2,7 @@ import React from 'react';
 import Component_1 from './component_1';
 import Multistate_component from './multistate_component';
 import Component_2 from './component_2';
+import Multistate_component_2 from './multistate_component_2';
 import Section from './section';
 import Component_5 from './component_5';
 import Produtos from './produtos';
@@ -325,12 +326,8 @@ export default class Nubankapp extends React.Component {
                           </div>
                       </div>
                       <div className="nubankapp-1-2-0-2">
-                          <div className="nubankapp-rectangle_3">
-                              <div className="nubankapp-1-2-0-2-0-0">
-                                  <div className="nubankapp-quero_ser_nubank_-3">
-                                      Quero ser NuBank
-                                  </div>
-                              </div>
+                          <div className="nubankapp-unnamed_instance_2">
+                              <Multistate_component_2 state={"default"} /> 
                           </div>
                       </div>
                       <div className="nubankapp-1-2-0-3" /> 
@@ -338,7 +335,7 @@ export default class Nubankapp extends React.Component {
               </div>
               <div className="nubankapp-1-3">
                   <div className="nubankapp-unnamed_instance-7">
-                      <Section text={"NuConta2"} text2={"Rende mais que a poupança e você não paga nada por isso."} text3={"Débito: entre na lista de espera"} img_src={"https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/undefined/a1d538a2-fef0-4b3a-a6cb-144ed1e148f7/nuconta-inclined-device@1x.png"} ={""} /> 
+                      <Section text={"NuConta2"} text2={"Rende mais que a poupança e você não paga nada por isso."} text3={"Débito: entre na lista de espera"} img_src={"https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/undefined/a1d538a2-fef0-4b3a-a6cb-144ed1e148f7/nuconta-inclined-device@1x.png"} /> 
                   </div>
               </div>
               <div className="nubankapp-1-4">
