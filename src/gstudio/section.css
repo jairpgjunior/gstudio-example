@@ -81,6 +81,7 @@
 .section-d_bito_entre_na_lista_de_espera_-9 {
     flex-grow: 1;
     flex-basis: 0px;
+    cursor: pointer;
     font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
     color: #8A05BE;
     font-size: 16px;

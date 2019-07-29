@@ -1,25 +1,35 @@
-.button_state {
+.multistate_component {
     display: flex;
     flex-grow: 1;
 }
 
-.button_state-_hover-1 {
+.multistate_component-default-1 {
     display: flex;
     flex-direction: column;
     flex-grow: 1;
-    padding-top: 35px;
-    padding-bottom: 34px;
-    background: #CA8EE2;
 }
 
-.button_state-0-0 {
+.multistate_component-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.multistate_component-rectangle_2 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 35px;
+    padding-bottom: 34px;
+    background: #8A05BE;
+}
+
+.multistate_component-0-0-0-0-0 {
     display: flex;
     flex-shrink: 0;
     padding-left: 55px;
     padding-right: 54px;
 }
 
-.button_state-quero_ser_nubank_-7 {
+.multistate_component-quero_ser_nubank_-6 {
     width: 136px;
     flex-shrink: 0;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -34,23 +44,34 @@
     word-wrap: break-word;
 }
 
-.button_state-default-3 {
+.multistate_component-_hover-3 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}
+
+.multistate_component-1-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.multistate_component-rectangle_2-7 {
     display: flex;
     flex-direction: column;
     padding-top: 35px;
     padding-bottom: 34px;
-    background: #8A05BE;
-    flex-grow: 1;
+    cursor: pointer;
+    background: #CA8EE2;
 }
 
-.button_state-1-0-0 {
+.multistate_component-1-0-0-0 {
     display: flex;
     flex-shrink: 0;
     padding-left: 55px;
     padding-right: 54px;
 }
 
-.button_state-quero_ser_nubank_-6 {
+.multistate_component-quero_ser_nubank_-4 {
     width: 136px;
     flex-shrink: 0;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;

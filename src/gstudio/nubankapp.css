@@ -16,6 +16,7 @@
     display: flex;
     flex-shrink: 0;
     padding-left: 23px;
+    padding-right: 312px;
 }
 
 .nubankapp-image-2 {
@@ -28,49 +29,10 @@
     background-repeat: no-repeat;
 }
 
-.nubankapp-0-0-1 {
-    display: flex;
-    flex-direction: column;
-    margin-left: 266px;
-    padding-top: 14px;
-    padding-bottom: 7px;
-}
-
-.nubankapp-0-0-1-0 {
-    display: flex;
-    flex-shrink: 0;
-}
-
-.nubankapp-line-9 {
-    width: 23px;
-    height: 1px;
-    flex-shrink: 0;
-    background: #8A05BE;
-}
-
-.nubankapp-0-0-1-1 {
-    display: flex;
-    flex-shrink: 0;
-    margin-top: 7px;
-}
-
-.nubankapp-line-6 {
-    width: 23px;
-    height: 1px;
-    flex-shrink: 0;
-    background: #8A05BE;
-}
-
-.nubankapp-0-0-2 {
-    height: 0px;
-    flex-grow: 1;
-    flex-basis: 0px;
-}
-
 .nubankapp-0-1 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 11px;
+    margin-top: 8px;
 }
 
 .nubankapp-image_9 {
@@ -79,8 +41,8 @@
     flex-grow: 1;
     flex-basis: 0px;
     min-height: fit-content;
-    padding-top: 144px;
-    padding-bottom: 526px;
+    padding-top: 104px;
+    padding-bottom: 474px;
     background-image: url('https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/undefined/1d207bce-b551-47a8-ac2e-cba41ae89446/WomanBusFront.png');
     background-size: cover;
     background-position: center;
@@ -89,8 +51,31 @@
 .nubankapp-0-1-0-0 {
     display: flex;
     flex-shrink: 0;
-    padding-left: 47px;
-    padding-right: 47px;
+    padding-left: 45px;
+    padding-right: 70px;
+}
+
+.nubankapp-ser_nubank_ter_uma_vida_financeira_descomplicada_-3 {
+    width: 245px;
+    flex-shrink: 0;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color: #F5F5F5;
+    font-size: 22px;
+    line-height: 25px;
+    letter-spacing: 0px;
+    font-weight: normal;
+    font-style: normal;
+    text-decoration: none;
+    text-align: left;
+    word-wrap: break-word;
+}
+
+.nubankapp-0-1-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 8px;
+    padding-left: 45px;
+    padding-right: 49px;
 }
 
 .nubankapp-component_1 {
@@ -102,7 +87,31 @@
 .nubankapp-0-2 {
     display: flex;
     flex-shrink: 0;
-    margin-top: 52px;
+    margin-top: 38px;
+}
+
+.nubankapp-0-2-0 {
+    height: 0px;
+    flex-grow: 0.5043478260869565;
+    flex-basis: 0px;
+}
+
+.nubankapp-multistate_component_instance_2 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.nubankapp-0-2-2 {
+    height: 0px;
+    flex-grow: 0.4956521739130435;
+    flex-basis: 0px;
+}
+
+.nubankapp-0-3 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 32px;
 }
 
 .nubankapp-rectangle_6 {
@@ -116,14 +125,14 @@
     background: #F5F5F5;
 }
 
-.nubankapp-0-2-0-0 {
+.nubankapp-0-3-0-0 {
     display: flex;
     flex-shrink: 0;
     padding-left: 38px;
     padding-right: 70px;
 }
 
-.nubankapp-nuconta_-3 {
+.nubankapp-nuconta2 {
     width: 252px;
     flex-shrink: 0;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
@@ -138,7 +147,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-2-0-1 {
+.nubankapp-0-3-0-1 {
     display: flex;
     flex-shrink: 0;
     margin-top: 2px;
@@ -161,7 +170,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-2-0-2 {
+.nubankapp-0-3-0-2 {
     display: flex;
     flex-shrink: 0;
     margin-top: 10px;
@@ -184,7 +193,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-2-0-3 {
+.nubankapp-0-3-0-3 {
     display: flex;
     flex-shrink: 0;
     margin-top: 22px;
@@ -201,13 +210,13 @@
     background-repeat: no-repeat;
 }
 
-.nubankapp-0-2-0-3-1 {
+.nubankapp-0-3-0-3-1 {
     height: 0px;
     flex-grow: 0.11180124223602485;
     flex-basis: 0px;
 }
 
-.nubankapp-0-3 {
+.nubankapp-0-4 {
     display: flex;
     flex-shrink: 0;
     margin-top: 45px;
@@ -230,7 +239,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-4 {
+.nubankapp-0-5 {
     display: flex;
     flex-shrink: 0;
     margin-top: 6px;
@@ -253,7 +262,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-5 {
+.nubankapp-0-6 {
     display: flex;
     flex-shrink: 0;
     margin-top: 7px;
@@ -276,14 +285,14 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-6 {
+.nubankapp-0-7 {
     width: 0px;
     flex-shrink: 0;
     flex-grow: 1;
     flex-basis: 0px;
 }
 
-.nubankapp-0-7 {
+.nubankapp-0-8 {
     display: flex;
     flex-shrink: 0;
     padding-left: 70px;
@@ -299,13 +308,13 @@
     background-repeat: no-repeat;
 }
 
-.nubankapp-0-7-1 {
+.nubankapp-0-8-1 {
     height: 0px;
     flex-grow: 0.16206896551724137;
     flex-basis: 0px;
 }
 
-.nubankapp-0-8 {
+.nubankapp-0-9 {
     display: flex;
     flex-shrink: 0;
 }
@@ -321,7 +330,7 @@
     background: #530082;
 }
 
-.nubankapp-0-8-0-0 {
+.nubankapp-0-9-0-0 {
     display: flex;
     flex-shrink: 0;
     padding-left: 38px;
@@ -343,7 +352,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-8-0-1 {
+.nubankapp-0-9-0-1 {
     display: flex;
     flex-shrink: 0;
     margin-top: 9px;
@@ -366,7 +375,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-8-0-2 {
+.nubankapp-0-9-0-2 {
     display: flex;
     flex-shrink: 0;
     margin-top: 12px;
@@ -389,7 +398,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-8-0-3 {
+.nubankapp-0-9-0-3 {
     display: flex;
     flex-shrink: 0;
     margin-top: 40px;
@@ -406,13 +415,13 @@
     background-repeat: no-repeat;
 }
 
-.nubankapp-0-8-0-3-1 {
+.nubankapp-0-9-0-3-1 {
     height: 0px;
     flex-grow: 0.19666666666666666;
     flex-basis: 0px;
 }
 
-.nubankapp-0-9 {
+.nubankapp-0-10 {
     display: flex;
     flex-shrink: 0;
 }
@@ -430,7 +439,7 @@
     background-position: center;
 }
 
-.nubankapp-0-9-0-0 {
+.nubankapp-0-10-0-0 {
     display: flex;
     flex-shrink: 0;
     padding-left: 39px;
@@ -452,7 +461,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-9-0-1 {
+.nubankapp-0-10-0-1 {
     display: flex;
     flex-shrink: 0;
     margin-top: 17px;
@@ -475,7 +484,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-10 {
+.nubankapp-0-11 {
     display: flex;
     flex-shrink: 0;
 }
@@ -493,7 +502,7 @@
     background-position: center;
 }
 
-.nubankapp-0-10-0-0 {
+.nubankapp-0-11-0-0 {
     display: flex;
     flex-shrink: 0;
     padding-left: 39px;
@@ -515,7 +524,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-10-0-1 {
+.nubankapp-0-11-0-1 {
     display: flex;
     flex-shrink: 0;
     margin-top: 18px;
@@ -538,7 +547,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-11 {
+.nubankapp-0-12 {
     display: flex;
     flex-shrink: 0;
 }
@@ -553,7 +562,7 @@
     background: #8A05BE;
 }
 
-.nubankapp-0-11-0-0 {
+.nubankapp-0-12-0-0 {
     display: flex;
     flex-shrink: 0;
     padding-left: 38px;
@@ -575,7 +584,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-11-0-1 {
+.nubankapp-0-12-0-1 {
     display: flex;
     flex-shrink: 0;
     margin-top: 19px;
@@ -598,7 +607,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-11-0-2 {
+.nubankapp-0-12-0-2 {
     display: flex;
     flex-shrink: 0;
     margin-top: 38px;
@@ -615,13 +624,13 @@
     background-repeat: no-repeat;
 }
 
-.nubankapp-0-11-0-2-1 {
+.nubankapp-0-12-0-2-1 {
     height: 0px;
     flex-grow: 0;
     flex-basis: 0px;
 }
 
-.nubankapp-0-12 {
+.nubankapp-0-13 {
     display: flex;
     flex-shrink: 0;
 }
@@ -637,7 +646,7 @@
     background: #000000;
 }
 
-.nubankapp-0-12-0-0 {
+.nubankapp-0-13-0-0 {
     display: flex;
     flex-shrink: 0;
     padding-left: 27px;
@@ -654,7 +663,7 @@
     background-repeat: no-repeat;
 }
 
-.nubankapp-0-12-0-1 {
+.nubankapp-0-13-0-1 {
     display: flex;
     flex-shrink: 0;
     margin-top: 30px;
@@ -677,7 +686,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-2 {
+.nubankapp-0-13-0-2 {
     display: flex;
     flex-shrink: 0;
     margin-top: 16px;
@@ -700,7 +709,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-3 {
+.nubankapp-0-13-0-3 {
     display: flex;
     flex-shrink: 0;
     margin-top: 17px;
@@ -723,7 +732,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-4 {
+.nubankapp-0-13-0-4 {
     display: flex;
     flex-shrink: 0;
     margin-top: 17px;
@@ -746,7 +755,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-5 {
+.nubankapp-0-13-0-5 {
     display: flex;
     flex-shrink: 0;
     margin-top: 21px;
@@ -769,7 +778,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-6 {
+.nubankapp-0-13-0-6 {
     display: flex;
     flex-shrink: 0;
     margin-top: 25px;
@@ -792,7 +801,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-7 {
+.nubankapp-0-13-0-7 {
     display: flex;
     flex-shrink: 0;
     margin-top: 19px;
@@ -815,7 +824,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-8 {
+.nubankapp-0-13-0-8 {
     display: flex;
     flex-shrink: 0;
     margin-top: 21px;
@@ -838,7 +847,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-9 {
+.nubankapp-0-13-0-9 {
     display: flex;
     flex-shrink: 0;
     margin-top: 21px;
@@ -861,7 +870,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-10 {
+.nubankapp-0-13-0-10 {
     display: flex;
     flex-shrink: 0;
     margin-top: 21px;
@@ -884,7 +893,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-11 {
+.nubankapp-0-13-0-11 {
     display: flex;
     flex-shrink: 0;
     margin-top: 21px;
@@ -907,7 +916,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-12 {
+.nubankapp-0-13-0-12 {
     display: flex;
     flex-shrink: 0;
     margin-top: 25px;
@@ -930,7 +939,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-13 {
+.nubankapp-0-13-0-13 {
     display: flex;
     flex-shrink: 0;
     margin-top: 22px;
@@ -953,7 +962,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-14 {
+.nubankapp-0-13-0-14 {
     display: flex;
     flex-shrink: 0;
     margin-top: 19px;
@@ -976,7 +985,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-15 {
+.nubankapp-0-13-0-15 {
     display: flex;
     flex-shrink: 0;
     margin-top: 24px;
@@ -999,7 +1008,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-16 {
+.nubankapp-0-13-0-16 {
     display: flex;
     flex-shrink: 0;
     margin-top: 18px;
@@ -1022,7 +1031,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-17 {
+.nubankapp-0-13-0-17 {
     display: flex;
     flex-shrink: 0;
     margin-top: 21px;
@@ -1045,7 +1054,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-18 {
+.nubankapp-0-13-0-18 {
     display: flex;
     flex-shrink: 0;
     margin-top: 20px;
@@ -1068,7 +1077,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-19 {
+.nubankapp-0-13-0-19 {
     display: flex;
     flex-shrink: 0;
     margin-top: 17px;
@@ -1091,7 +1100,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-20 {
+.nubankapp-0-13-0-20 {
     display: flex;
     flex-shrink: 0;
     margin-top: 16px;
@@ -1114,7 +1123,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-21 {
+.nubankapp-0-13-0-21 {
     display: flex;
     flex-shrink: 0;
     margin-top: 14px;
@@ -1137,7 +1146,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-22 {
+.nubankapp-0-13-0-22 {
     display: flex;
     flex-shrink: 0;
     margin-top: 23px;
@@ -1160,7 +1169,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-23 {
+.nubankapp-0-13-0-23 {
     display: flex;
     flex-shrink: 0;
     margin-top: 16px;
@@ -1183,7 +1192,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-24 {
+.nubankapp-0-13-0-24 {
     display: flex;
     flex-shrink: 0;
     margin-top: 18px;
@@ -1206,7 +1215,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-25 {
+.nubankapp-0-13-0-25 {
     display: flex;
     flex-shrink: 0;
     margin-top: 18px;
@@ -1229,7 +1238,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-26 {
+.nubankapp-0-13-0-26 {
     display: flex;
     flex-shrink: 0;
     margin-top: 24px;
@@ -1252,7 +1261,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-27 {
+.nubankapp-0-13-0-27 {
     display: flex;
     flex-shrink: 0;
     margin-top: 18px;
@@ -1275,7 +1284,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-0-12-0-28 {
+.nubankapp-0-13-0-28 {
     display: flex;
     flex-shrink: 0;
     margin-top: 15px;
@@ -1411,6 +1420,7 @@
 .nubankapp-cart_o_de_cr_dito_-4 {
     width: 132px;
     flex-shrink: 0;
+    cursor: pointer;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #767676;
     font-size: 16px;
@@ -1569,7 +1579,7 @@
     flex-basis: 0px;
 }
 
-.nubankapp-unnamed_instance_2 {
+.nubankapp-multistate_component_instance-2 {
     flex-shrink: 0;
     display: flex;
     flex-direction: column;
@@ -1700,10 +1710,10 @@
 }
 
 .nubankapp-unnamed_instance-7 {
-    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: 0px;
     display: flex;
     flex-direction: column;
-    min-width: 1280px;
 }
 
 .nubankapp-1-4 {
@@ -1960,6 +1970,7 @@
 .nubankapp-saiba_mais_-3 {
     width: 233px;
     flex-shrink: 0;
+    cursor: pointer;
     font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
     color: #F5F5F5;
     font-size: 16px;
@@ -2023,6 +2034,7 @@
 .nubankapp-tire_d_vidas_compartilhe_ideias_e_fa_a_parte_-1 {
     width: 327px;
     flex-shrink: 0;
+    cursor: pointer;
     font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
     color: #F5F5F5;
     font-size: 16px;
@@ -2094,6 +2106,7 @@
 .nubankapp-conhe_a_o_fala_nubank_-4 {
     width: 233px;
     flex-shrink: 0;
+    cursor: pointer;
     font-family: -apple-system, BlinkMacSystemFont, 'Helvetica', sans-serif;
     color: #FFFFFF;
     font-size: 16px;
@@ -2346,6 +2359,7 @@
 .nubankapp-cart_o_de_cr_dito_-47 {
     width: 129px;
     flex-shrink: 0;
+    cursor: pointer;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #FFFFFF;
     font-size: 16px;

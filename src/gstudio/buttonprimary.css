@@ -1,20 +1,30 @@
-.component_button-component_button-0 {
+.buttonprimary-buttonprimary-4 {
     display: flex;
     flex-direction: column;
     flex-grow: 1;
+}
+
+.buttonprimary-0 {
+    display: flex;
+    flex-shrink: 0;
+}
+
+.buttonprimary-rectangle_2 {
+    display: flex;
+    flex-direction: column;
     padding-top: 35px;
     padding-bottom: 34px;
     background: #8A05BE;
 }
 
-.component_button-0 {
+.buttonprimary-0-0-0 {
     display: flex;
     flex-shrink: 0;
     padding-left: 55px;
     padding-right: 54px;
 }
 
-.component_button-quero_ser_nubank_-2 {
+.buttonprimary-quero_ser_nubank_-9 {
     width: 136px;
     flex-shrink: 0;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
