@@ -257,7 +257,11 @@ export default class Nubankapp extends React.Component {
                   <div className="nubankapp-rectangle-2">
                       <div className="nubankapp-1-0-0-0">
                           <div className="nubankapp-1-0-0-0-0">
-                              <div className="nubankapp-image-4" /> 
+                              <div className="nubankapp-1-0-0-0-0-0">
+                                  <div className="nubankapp-1-0-0-0-0-0-0">
+                                      <div className="nubankapp-image-4" /> 
+                                  </div>
+                              </div>
                               <div className="nubankapp-1-0-0-0-0-1">
                                   <div className="nubankapp-1-0-0-0-0-1-0">
                                       <div className="nubankapp-in_cio_-4">{"Início"}</div>
@@ -305,12 +309,12 @@ export default class Nubankapp extends React.Component {
                                   </div>
                               </div>
                               <div className="nubankapp-1-0-0-0-0-9" /> 
+                              <div className="nubankapp-multistate_component_instance-2">
+                                  <Multistate_component state={"default"} /> 
+                              </div>
                           </div>
                           <div className="nubankapp-1-0-0-0-1" /> 
                       </div>
-                  </div>
-                  <div className="nubankapp-multistate_component_instance-2">
-                      <Multistate_component state={"default"} /> 
                   </div>
               </div>
               <div className="nubankapp-1-1" /> 

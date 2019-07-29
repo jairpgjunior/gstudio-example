@@ -1337,7 +1337,6 @@
     display: flex;
     flex-direction: column;
     flex-grow: 1;
-    padding-top: 7px;
     position: absolute;
     width: 100%;
     min-height: 100%;
@@ -1347,6 +1346,18 @@
     display: flex;
     flex-shrink: 0;
     padding-left: 27px;
+}
+
+.nubankapp-1-0-0-0-0-0 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 7px;
+    padding-bottom: 8px;
+}
+
+.nubankapp-1-0-0-0-0-0-0 {
+    display: flex;
+    flex-shrink: 0;
 }
 
 .nubankapp-image-4 {
@@ -1363,8 +1374,8 @@
     display: flex;
     flex-direction: column;
     margin-left: 26px;
-    padding-top: 28px;
-    padding-bottom: 26px;
+    padding-top: 35px;
+    padding-bottom: 34px;
 }
 
 .nubankapp-1-0-0-0-0-1-0 {
@@ -1391,8 +1402,8 @@
     display: flex;
     flex-direction: column;
     margin-left: 23px;
-    padding-top: 28px;
-    padding-bottom: 26px;
+    padding-top: 35px;
+    padding-bottom: 34px;
 }
 
 .nubankapp-1-0-0-0-0-2-0 {
@@ -1410,8 +1421,8 @@
     display: flex;
     flex-direction: column;
     margin-left: 30px;
-    padding-top: 28px;
-    padding-bottom: 26px;
+    padding-top: 35px;
+    padding-bottom: 34px;
 }
 
 .nubankapp-1-0-0-0-0-3-0 {
@@ -1439,8 +1450,8 @@
     display: flex;
     flex-direction: column;
     margin-left: 30px;
-    padding-top: 28px;
-    padding-bottom: 26px;
+    padding-top: 35px;
+    padding-bottom: 34px;
 }
 
 .nubankapp-1-0-0-0-0-4-0 {
@@ -1467,8 +1478,8 @@
     display: flex;
     flex-direction: column;
     margin-left: 30px;
-    padding-top: 28px;
-    padding-bottom: 26px;
+    padding-top: 35px;
+    padding-bottom: 34px;
 }
 
 .nubankapp-1-0-0-0-0-5-0 {
@@ -1495,8 +1506,8 @@
     display: flex;
     flex-direction: column;
     margin-left: 30px;
-    padding-top: 28px;
-    padding-bottom: 26px;
+    padding-top: 35px;
+    padding-bottom: 34px;
 }
 
 .nubankapp-1-0-0-0-0-6-0 {
@@ -1523,8 +1534,8 @@
     display: flex;
     flex-direction: column;
     margin-left: 30px;
-    padding-top: 28px;
-    padding-bottom: 26px;
+    padding-top: 35px;
+    padding-bottom: 34px;
 }
 
 .nubankapp-1-0-0-0-0-7-0 {
@@ -1551,8 +1562,8 @@
     display: flex;
     flex-direction: column;
     margin-left: 127px;
-    padding-top: 28px;
-    padding-bottom: 26px;
+    padding-top: 35px;
+    padding-bottom: 34px;
 }
 
 .nubankapp-1-0-0-0-0-8-0 {
@@ -1581,17 +1592,17 @@
     flex-basis: 0px;
 }
 
+.nubankapp-multistate_component_instance-2 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
 .nubankapp-1-0-0-0-1 {
     width: 0px;
     flex-shrink: 0;
     flex-grow: 1;
     flex-basis: 0px;
-}
-
-.nubankapp-multistate_component_instance-2 {
-    flex-shrink: 0;
-    display: flex;
-    flex-direction: column;
 }
 
 .nubankapp-1-1 {
