@@ -1324,9 +1324,9 @@
 }
 
 .nubankapp-rectangle-2 {
-    width: 1035px;
     height: 87px;
-    flex-shrink: 0;
+    flex-grow: 1;
+    flex-basis: 0px;
     overflow: scroll;
     position: relative;
     box-shadow: 0px 2px 4px 0px #F5F5F5;
@@ -1347,7 +1347,6 @@
     display: flex;
     flex-shrink: 0;
     padding-left: 27px;
-    padding-right: 32px;
 }
 
 .nubankapp-image-4 {
@@ -1572,11 +1571,18 @@
     font-weight: normal;
     font-style: normal;
     text-decoration: none;
-    text-align: center;
+    text-align: right;
     word-wrap: break-word;
 }
 
+.nubankapp-1-0-0-0-0-9 {
+    height: 0px;
+    flex-grow: 1;
+    flex-basis: 0px;
+}
+
 .nubankapp-1-0-0-0-1 {
+    width: 0px;
     flex-shrink: 0;
     flex-grow: 1;
     flex-basis: 0px;

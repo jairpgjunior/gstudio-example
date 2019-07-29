@@ -304,6 +304,7 @@ export default class Nubankapp extends React.Component {
                                       <div className="nubankapp-login_-4">Login</div>
                                   </div>
                               </div>
+                              <div className="nubankapp-1-0-0-0-0-9" /> 
                           </div>
                           <div className="nubankapp-1-0-0-0-1" /> 
                       </div>
@@ -335,7 +336,7 @@ export default class Nubankapp extends React.Component {
               </div>
               <div className="nubankapp-1-3">
                   <div className="nubankapp-unnamed_instance-7">
-                      <Section text={"NuConta2"} text2={"Rende mais que a poupança e você não paga nada por isso."} text3={"Débito: entre na lista de espera"} img_src={"https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/undefined/a1d538a2-fef0-4b3a-a6cb-144ed1e148f7/nuconta-inclined-device@1x.png"} /> 
+                      <Section text={"NuConta"} text2={"Rende mais que a poupança e você não paga nada por isso."} text3={"Débito: entre na lista de espera"} img_src={"https://gstudio-hosting.s3.amazonaws.com/bAqGSgxnuIMT3V1uK3VTFRQmYbn1/undefined/a1d538a2-fef0-4b3a-a6cb-144ed1e148f7/nuconta-inclined-device@1x.png"} /> 
                   </div>
               </div>
               <div className="nubankapp-1-4">
