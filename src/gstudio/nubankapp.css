@@ -19,16 +19,19 @@
 .nubankapp-rectangle_9 {
     display: flex;
     flex-direction: column;
-    padding-top: 11px;
-    padding-bottom: 9px;
+    flex-grow: 1;
+    flex-basis: 0px;
+    min-height: fit-content;
+    padding-top: 15px;
+    padding-bottom: 5px;
     background: #FFFFFF;
 }
 
 .nubankapp-0-0-0-0 {
     display: flex;
     flex-shrink: 0;
-    padding-left: 21px;
-    padding-right: 314px;
+    padding-left: 59px;
+    padding-right: 276px;
 }
 
 .nubankapp-image-2 {
@@ -1357,31 +1360,17 @@
 .nubankapp-1-0-0-0-0 {
     display: flex;
     flex-shrink: 0;
-}
-
-.nubankapp-rectangle_3 {
-    display: flex;
-    flex-direction: column;
-    flex-grow: 1;
-    flex-basis: 0px;
-    min-height: fit-content;
-    background: #FFFFFF;
-}
-
-.nubankapp-1-0-0-0-0-0-0 {
-    display: flex;
-    flex-shrink: 0;
     padding-left: 27px;
 }
 
-.nubankapp-1-0-0-0-0-0-0-0 {
+.nubankapp-1-0-0-0-0-0 {
     display: flex;
     flex-direction: column;
     padding-top: 7px;
     padding-bottom: 8px;
 }
 
-.nubankapp-1-0-0-0-0-0-0-0-0 {
+.nubankapp-1-0-0-0-0-0-0 {
     display: flex;
     flex-shrink: 0;
 }
@@ -1396,7 +1385,7 @@
     background-repeat: no-repeat;
 }
 
-.nubankapp-1-0-0-0-0-0-0-1 {
+.nubankapp-1-0-0-0-0-1 {
     display: flex;
     flex-direction: column;
     margin-left: 26px;
@@ -1404,7 +1393,7 @@
     padding-bottom: 34px;
 }
 
-.nubankapp-1-0-0-0-0-0-0-1-0 {
+.nubankapp-1-0-0-0-0-1-0 {
     display: flex;
     flex-shrink: 0;
 }
@@ -1424,7 +1413,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-1-0-0-0-0-0-0-2 {
+.nubankapp-1-0-0-0-0-2 {
     display: flex;
     flex-direction: column;
     margin-left: 23px;
@@ -1432,7 +1421,7 @@
     padding-bottom: 34px;
 }
 
-.nubankapp-1-0-0-0-0-0-0-2-0 {
+.nubankapp-1-0-0-0-0-2-0 {
     display: flex;
     flex-shrink: 0;
 }
@@ -1443,7 +1432,7 @@
     flex-direction: column;
 }
 
-.nubankapp-1-0-0-0-0-0-0-3 {
+.nubankapp-1-0-0-0-0-3 {
     display: flex;
     flex-direction: column;
     margin-left: 30px;
@@ -1451,7 +1440,7 @@
     padding-bottom: 34px;
 }
 
-.nubankapp-1-0-0-0-0-0-0-3-0 {
+.nubankapp-1-0-0-0-0-3-0 {
     display: flex;
     flex-shrink: 0;
 }
@@ -1472,7 +1461,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-1-0-0-0-0-0-0-4 {
+.nubankapp-1-0-0-0-0-4 {
     display: flex;
     flex-direction: column;
     margin-left: 30px;
@@ -1480,7 +1469,7 @@
     padding-bottom: 34px;
 }
 
-.nubankapp-1-0-0-0-0-0-0-4-0 {
+.nubankapp-1-0-0-0-0-4-0 {
     display: flex;
     flex-shrink: 0;
 }
@@ -1500,7 +1489,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-1-0-0-0-0-0-0-5 {
+.nubankapp-1-0-0-0-0-5 {
     display: flex;
     flex-direction: column;
     margin-left: 30px;
@@ -1508,7 +1497,7 @@
     padding-bottom: 34px;
 }
 
-.nubankapp-1-0-0-0-0-0-0-5-0 {
+.nubankapp-1-0-0-0-0-5-0 {
     display: flex;
     flex-shrink: 0;
 }
@@ -1528,7 +1517,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-1-0-0-0-0-0-0-6 {
+.nubankapp-1-0-0-0-0-6 {
     display: flex;
     flex-direction: column;
     margin-left: 30px;
@@ -1536,7 +1525,7 @@
     padding-bottom: 34px;
 }
 
-.nubankapp-1-0-0-0-0-0-0-6-0 {
+.nubankapp-1-0-0-0-0-6-0 {
     display: flex;
     flex-shrink: 0;
 }
@@ -1556,7 +1545,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-1-0-0-0-0-0-0-7 {
+.nubankapp-1-0-0-0-0-7 {
     display: flex;
     flex-direction: column;
     margin-left: 30px;
@@ -1564,7 +1553,7 @@
     padding-bottom: 34px;
 }
 
-.nubankapp-1-0-0-0-0-0-0-7-0 {
+.nubankapp-1-0-0-0-0-7-0 {
     display: flex;
     flex-shrink: 0;
 }
@@ -1584,7 +1573,7 @@
     word-wrap: break-word;
 }
 
-.nubankapp-1-0-0-0-0-0-0-8 {
+.nubankapp-1-0-0-0-0-8 {
     display: flex;
     flex-direction: column;
     margin-left: 127px;
@@ -1592,7 +1581,7 @@
     padding-bottom: 34px;
 }
 
-.nubankapp-1-0-0-0-0-0-0-8-0 {
+.nubankapp-1-0-0-0-0-8-0 {
     display: flex;
     flex-shrink: 0;
 }
@@ -1612,20 +1601,14 @@
     word-wrap: break-word;
 }
 
-.nubankapp-1-0-0-0-0-0-0-9 {
-    height: 0px;
-    flex-grow: 1;
-    flex-basis: 0px;
-}
-
 .nubankapp-multistate_component_instance-2 {
     flex-shrink: 0;
+    margin-left: 32px;
     display: flex;
     flex-direction: column;
 }
 
 .nubankapp-1-0-0-0-1 {
-    width: 0px;
     flex-shrink: 0;
     flex-grow: 1;
     flex-basis: 0px;

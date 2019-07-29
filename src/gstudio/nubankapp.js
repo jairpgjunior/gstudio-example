@@ -261,64 +261,59 @@ export default class Nubankapp extends React.Component {
                   <div className="nubankapp-rectangle-2">
                       <div className="nubankapp-1-0-0-0">
                           <div className="nubankapp-1-0-0-0-0">
-                              <div className="nubankapp-rectangle_3">
+                              <div className="nubankapp-1-0-0-0-0-0">
                                   <div className="nubankapp-1-0-0-0-0-0-0">
-                                      <div className="nubankapp-1-0-0-0-0-0-0-0">
-                                          <div className="nubankapp-1-0-0-0-0-0-0-0-0">
-                                              <div className="nubankapp-image-4" /> 
-                                          </div>
-                                      </div>
-                                      <div className="nubankapp-1-0-0-0-0-0-0-1">
-                                          <div className="nubankapp-1-0-0-0-0-0-0-1-0">
-                                              <div className="nubankapp-in_cio_-4">{"Início"}</div>
-                                          </div>
-                                      </div>
-                                      <div className="nubankapp-1-0-0-0-0-0-0-2">
-                                          <div className="nubankapp-1-0-0-0-0-0-0-2-0">
-                                              <div className="nubankapp-component_2">
-                                                  <Component_2 state={"default"} /> 
-                                              </div>
-                                          </div>
-                                      </div>
-                                      <div className="nubankapp-1-0-0-0-0-0-0-3">
-                                          <div className="nubankapp-1-0-0-0-0-0-0-3-0">
-                                              <div className="nubankapp-cart_o_de_cr_dito_-4">
-                                                  {"Cartão de crédito"}
-                                              </div>
-                                          </div>
-                                      </div>
-                                      <div className="nubankapp-1-0-0-0-0-0-0-4">
-                                          <div className="nubankapp-1-0-0-0-0-0-0-4-0">
-                                              <div className="nubankapp-rewards_-1">Rewards</div>
-                                          </div>
-                                      </div>
-                                      <div className="nubankapp-1-0-0-0-0-0-0-5">
-                                          <div className="nubankapp-1-0-0-0-0-0-0-5-0">
-                                              <div className="nubankapp-empr_stimo_-3">
-                                                  {"Empréstimo"}
-                                              </div>
-                                          </div>
-                                      </div>
-                                      <div className="nubankapp-1-0-0-0-0-0-0-6">
-                                          <div className="nubankapp-1-0-0-0-0-0-0-6-0">
-                                              <div className="nubankapp-sobre_n_s_-6">{"Sobre nós"}</div>
-                                          </div>
-                                      </div>
-                                      <div className="nubankapp-1-0-0-0-0-0-0-7">
-                                          <div className="nubankapp-1-0-0-0-0-0-0-7-0">
-                                              <div className="nubankapp-carreiras_-8">Carreiras</div>
-                                          </div>
-                                      </div>
-                                      <div className="nubankapp-1-0-0-0-0-0-0-8">
-                                          <div className="nubankapp-1-0-0-0-0-0-0-8-0">
-                                              <div className="nubankapp-login_-4">Login</div>
-                                          </div>
-                                      </div>
-                                      <div className="nubankapp-1-0-0-0-0-0-0-9" /> 
-                                      <div className="nubankapp-multistate_component_instance-2">
-                                          <Multistate_component state={"default"} /> 
+                                      <div className="nubankapp-image-4" /> 
+                                  </div>
+                              </div>
+                              <div className="nubankapp-1-0-0-0-0-1">
+                                  <div className="nubankapp-1-0-0-0-0-1-0">
+                                      <div className="nubankapp-in_cio_-4">{"Início"}</div>
+                                  </div>
+                              </div>
+                              <div className="nubankapp-1-0-0-0-0-2">
+                                  <div className="nubankapp-1-0-0-0-0-2-0">
+                                      <div className="nubankapp-component_2">
+                                          <Component_2 state={"default"} /> 
                                       </div>
                                   </div>
+                              </div>
+                              <div className="nubankapp-1-0-0-0-0-3">
+                                  <div className="nubankapp-1-0-0-0-0-3-0">
+                                      <div className="nubankapp-cart_o_de_cr_dito_-4">
+                                          {"Cartão de crédito"}
+                                      </div>
+                                  </div>
+                              </div>
+                              <div className="nubankapp-1-0-0-0-0-4">
+                                  <div className="nubankapp-1-0-0-0-0-4-0">
+                                      <div className="nubankapp-rewards_-1">Rewards</div>
+                                  </div>
+                              </div>
+                              <div className="nubankapp-1-0-0-0-0-5">
+                                  <div className="nubankapp-1-0-0-0-0-5-0">
+                                      <div className="nubankapp-empr_stimo_-3">
+                                          {"Empréstimo"}
+                                      </div>
+                                  </div>
+                              </div>
+                              <div className="nubankapp-1-0-0-0-0-6">
+                                  <div className="nubankapp-1-0-0-0-0-6-0">
+                                      <div className="nubankapp-sobre_n_s_-6">{"Sobre nós"}</div>
+                                  </div>
+                              </div>
+                              <div className="nubankapp-1-0-0-0-0-7">
+                                  <div className="nubankapp-1-0-0-0-0-7-0">
+                                      <div className="nubankapp-carreiras_-8">Carreiras</div>
+                                  </div>
+                              </div>
+                              <div className="nubankapp-1-0-0-0-0-8">
+                                  <div className="nubankapp-1-0-0-0-0-8-0">
+                                      <div className="nubankapp-login_-4">Login</div>
+                                  </div>
+                              </div>
+                              <div className="nubankapp-multistate_component_instance-2">
+                                  <Multistate_component state={"default"} /> 
                               </div>
                           </div>
                           <div className="nubankapp-1-0-0-0-1" /> 
