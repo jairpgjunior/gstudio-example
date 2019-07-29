@@ -181,6 +181,7 @@
 .nubankapp-d_bito_entre_na_lista_de_espera_-0 {
     flex-grow: 1;
     flex-basis: 0px;
+    cursor: pointer;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #8A05BE;
     font-size: 14px;
@@ -273,6 +274,7 @@
 .nubankapp-saiba_mais_-7 {
     width: 252px;
     flex-shrink: 0;
+    cursor: pointer;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #8A05BE;
     font-size: 14px;
@@ -697,6 +699,7 @@
 .nubankapp-nuconta_-0 {
     width: 70px;
     flex-shrink: 0;
+    cursor: pointer;
     font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
     color: #FFFFFF;
     font-size: 10px;
