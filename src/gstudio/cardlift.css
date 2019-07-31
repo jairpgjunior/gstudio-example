@@ -1,0 +1,164 @@
+.cardlift {
+    display: flex;
+    flex-grow: 1;
+}
+
+.cardlift-_hover-3 {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    padding-top: 79px;
+    padding-bottom: 20px;
+    background: #D7B7FD;
+}
+
+.cardlift-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 21px;
+    padding-right: 113px;
+}
+
+.cardlift-component_1 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.cardlift-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 31px;
+    padding-left: 22px;
+    padding-right: 109px;
+}
+
+.cardlift-component_2 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.cardlift-0-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 53px;
+    padding-left: 31px;
+    padding-right: 39px;
+}
+
+.cardlift-unnamed_instance_2 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.cardlift-default-8 {
+    display: flex;
+    flex-direction: column;
+    padding-top: 13px;
+    padding-bottom: 20px;
+    background: #FAFAFA;
+    flex-grow: 1;
+}
+
+.cardlift-1-0-0 {
+    display: flex;
+    flex-shrink: 0;
+    padding-left: 8px;
+    padding-right: 7px;
+}
+
+.cardlift-image-3 {
+    width: 188px;
+    height: 59px;
+    flex-shrink: 0;
+    border-width: 0px;
+}
+
+.cardlift-1-0-1 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 7px;
+    padding-left: 21px;
+    padding-right: 113px;
+}
+
+.cardlift-component_1_ {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.cardlift-1-0-2 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 31px;
+    padding-left: 22px;
+    padding-right: 109px;
+}
+
+.cardlift-component_2_ {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.cardlift-1-0-3 {
+    display: flex;
+    flex-shrink: 0;
+    margin-top: 53px;
+    padding-left: 31px;
+    padding-right: 39px;
+}
+
+.cardlift-unnamed_instance_2-9 {
+    flex-shrink: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+button:hover {
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.pd-onhover-parent >.pd-onhover {
+    display: none;
+}
+
+.pd-onhover-parent:hover > * {
+    display: none;
+}
+
+.pd-onhover-parent:hover > .pd-onhover {
+    display: flex;
+}
+
+.pd-onactive-parent > .pd-onactive {
+    display: none;
+}
+
+.pd-onactive-parent:active > * {
+    display: none;
+}
+
+.pd-onactive-parent:active > .pd-onactive {
+    display: flex;
+}
+
+.pd-onactive-parent.pd-onhover-parent:active > .pd-onhover {
+    display: none;
+}
